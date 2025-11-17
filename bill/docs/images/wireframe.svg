@@ -1,0 +1,194 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 782.0085212623783 395.99904500826096" width="782.0085212623783"
+    height="200">
+    <!-- svg-source:excalidraw -->
+
+    <defs>
+        <style class="style-fonts">
+            @font-face {
+            font-family: "Virgil";
+            src: url("https://excalidraw.com/Virgil.woff2");
+            }
+            @font-face {
+            font-family: "Cascadia";
+            src: url("https://excalidraw.com/Cascadia.woff2");
+            }
+            @font-face {
+            font-family: "Assistant";
+            src: url("https://excalidraw.com/Assistant-Regular.woff2");
+            }
+        </style>
+
+    </defs>
+    <rect x="0" y="0" width="782.0085212623783" height="395.99904500826096" fill="#ffffff"></rect>
+    <g stroke-linecap="round"
+        transform="translate(10 10) rotate(0 379.59402327759483 79.20105601565871)">
+        <path
+            d="M32 0 C276.49 1.39, 520.2 2.64, 727.19 0 M32 0 C179.07 0.59, 326.81 0.87, 727.19 0 M727.19 0 C747.7 -1.77, 757.77 11.67, 759.19 32 M727.19 0 C748.23 -1.64, 757.76 9.94, 759.19 32 M759.19 32 C760.91 59.94, 759.78 88.45, 759.19 126.4 M759.19 32 C760.15 59.81, 759.49 89.12, 759.19 126.4 M759.19 126.4 C758.6 145.87, 746.71 156.8, 727.19 158.4 M759.19 126.4 C759.46 147.5, 746.62 157.57, 727.19 158.4 M727.19 158.4 C555.63 156.33, 385.61 155.52, 32 158.4 M727.19 158.4 C453.67 158.16, 181.04 157.75, 32 158.4 M32 158.4 C9.45 160.05, -0.3 147.31, 0 126.4 M32 158.4 C10.26 158.94, 0.68 149.29, 0 126.4 M0 126.4 C1.87 98.82, 0.67 74.77, 0 32 M0 126.4 C-0.97 94.45, -0.92 62.13, 0 32 M0 32 C1.19 12.17, 9.78 0.43, 32 0 M0 32 C-0.54 8.59, 8.52 -0.76, 32 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(32.19156134572279 26.668946720405756) rotate(0 71.54178549254422 64.28992549485935)">
+        <path
+            d="M32 0 C61.52 0.1, 91.04 -0.24, 111.08 0 M32 0 C57.12 -1.18, 81.74 -0.92, 111.08 0 M111.08 0 C131.8 1.55, 144.41 8.72, 143.08 32 M111.08 0 C132.25 -2.29, 141.5 8.79, 143.08 32 M143.08 32 C142.94 55.11, 142.79 75.28, 143.08 96.58 M143.08 32 C143.59 47.91, 142.58 62.85, 143.08 96.58 M143.08 96.58 C143.13 119.65, 134.16 130.57, 111.08 128.58 M143.08 96.58 C140.9 118.1, 133.93 127.88, 111.08 128.58 M111.08 128.58 C81.13 127.78, 51.41 127.92, 32 128.58 M111.08 128.58 C93.5 128.48, 77.18 130.07, 32 128.58 M32 128.58 C10.07 129.7, -1.73 118.8, 0 96.58 M32 128.58 C12.26 128.3, 1.15 117.45, 0 96.58 M0 96.58 C-0.45 83.68, 0.02 72.23, 0 32 M0 96.58 C0.63 82.12, -0.73 67.72, 0 32 M0 32 C-0.07 12.61, 11.23 -1.45, 32 0 M0 32 C1.21 10.32, 12.04 -1.78, 32 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g transform="translate(59.89338864734901 78.45887221526505) rotate(0 43.83995819091797 12.5)">
+        <text x="43.83995819091797" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px"
+            fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">thumbnail</text>
+    </g>
+    <g transform="translate(184.144993001989 63.57877761057398) rotate(0 69.16993713378906 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Due: yyyymmdd</text>
+    </g>
+    <g transform="translate(184.144993001989 34.72858240289622) rotate(0 75.39994049072266 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Biller: abcd xyz</text>
+    </g>
+    <g transform="translate(184.144993001989 92.42897281825174) rotate(0 84.47993469238281 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Amount: $xxxx.yy</text>
+    </g>
+    <g transform="translate(184.144993001989 121.2791680259295) rotate(0 90.56990814208984 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Status: processing</text>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(386.63928409820363 53.91830742841523) rotate(0 65.78170546265801 39.527265934944694)">
+        <path
+            d="M19.76 0 C46.09 -1.09, 73.9 1.32, 111.8 0 M19.76 0 C48.6 -0.19, 78.33 1.12, 111.8 0 M111.8 0 C123.22 1.41, 129.77 5.77, 131.56 19.76 M111.8 0 C123.53 0.97, 132.19 7.24, 131.56 19.76 M131.56 19.76 C132.89 30.89, 133.51 42.57, 131.56 59.29 M131.56 19.76 C131.95 33.56, 131.22 47.42, 131.56 59.29 M131.56 59.29 C131.15 72.39, 125.63 79.63, 111.8 79.05 M131.56 59.29 C131.61 73.21, 126.68 76.79, 111.8 79.05 M111.8 79.05 C93.62 80.62, 70.85 80.89, 19.76 79.05 M111.8 79.05 C84.09 79.29, 55 80.08, 19.76 79.05 M19.76 79.05 C7.54 77.84, -1.57 72.89, 0 59.29 M19.76 79.05 C5.44 79.36, 1.07 72.91, 0 59.29 M0 59.29 C-0.89 50.9, 0.23 39.19, 0 19.76 M0 59.29 C-0.41 48.14, -0.39 36.9, 0 19.76 M0 19.76 C-1.85 8.27, 7.61 1.51, 19.76 0 M0 19.76 C1.46 5.48, 5.68 1.23, 19.76 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g
+        transform="translate(397.9641628168835 65.15257768844651) rotate(0 53.84880065917969 29.203647384427768)">
+        <text x="0" y="13.643944058004653" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Instalment 1</text>
+        <text x="0" y="33.11304231428983" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Due: yyyymmdd</text>
+        <text x="0" y="52.58214057057501" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Status: Paid</text>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(613.661952655561 55.955596830374816) rotate(0 65.78170546265807 39.527265934944694)">
+        <path
+            d="M19.76 0 C51.73 1.77, 79.37 0.41, 111.8 0 M19.76 0 C38.54 -0.76, 55.93 -1, 111.8 0 M111.8 0 C123.66 -1.55, 129.82 8.54, 131.56 19.76 M111.8 0 C123.68 -2.21, 131.47 7.66, 131.56 19.76 M131.56 19.76 C130.17 27.78, 131.75 39.98, 131.56 59.29 M131.56 19.76 C130.57 33.42, 130.34 46.45, 131.56 59.29 M131.56 59.29 C130.9 73.5, 123.44 79.94, 111.8 79.05 M131.56 59.29 C129.91 72.75, 126.99 78.79, 111.8 79.05 M111.8 79.05 C74.31 79.24, 41.53 79.51, 19.76 79.05 M111.8 79.05 C89.49 79.13, 65.46 79, 19.76 79.05 M19.76 79.05 C7.68 78.64, -0.64 72.61, 0 59.29 M19.76 79.05 C5.18 79.76, 0.76 72.13, 0 59.29 M0 59.29 C1.48 50.41, 0.53 38.2, 0 19.76 M0 59.29 C0.23 50.14, 0.24 43.86, 0 19.76 M0 19.76 C-1.19 5.5, 8.46 1.7, 19.76 0 M0 19.76 C0.01 7.55, 4.55 0.64, 19.76 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g
+        transform="translate(621.3131491576078 65.87302556115651) rotate(0 57.507728576660156 29.203647384427768)">
+        <text x="0" y="13.643944058004653" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Instalment n</text>
+        <text x="0" y="33.11304231428983" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Due: yyyymmdd</text>
+        <text x="0" y="52.58214057057501" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Status: Unpaid</text>
+    </g>
+    <g stroke-linecap="round">
+        <g
+            transform="translate(531.1439380386626 90.19939069948543) rotate(0 37.73073705367949 0.06227177539017248)">
+            <path d="M1.09 0.76 C13.56 0.74, 63.4 0.97, 75.83 0.89" stroke="#1e1e1e"
+                stroke-width="2.5" fill="none" stroke-dasharray="1.5 8"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round"
+        transform="translate(12.820474707188566 227.59693297694344) rotate(0 379.59402327759483 79.20105601565876)">
+        <path
+            d="M32 0 C197.07 -2.5, 360.51 -2.36, 727.19 0 M32 0 C294.76 -0.98, 557.54 -0.81, 727.19 0 M727.19 0 C747.44 -0.26, 759.22 11.13, 759.19 32 M727.19 0 C749.53 2.11, 758.09 10.23, 759.19 32 M759.19 32 C757.69 50.64, 759.01 73.45, 759.19 126.4 M759.19 32 C758.61 54.89, 758.99 77.36, 759.19 126.4 M759.19 126.4 C757.37 149.33, 748.51 156.64, 727.19 158.4 M759.19 126.4 C757.18 147.27, 746.91 158.57, 727.19 158.4 M727.19 158.4 C542.21 156.4, 357.35 157.35, 32 158.4 M727.19 158.4 C491.44 156.02, 255.24 156.53, 32 158.4 M32 158.4 C11.97 157.91, -1.22 148.77, 0 126.4 M32 158.4 C10.02 157.92, 0.54 148.69, 0 126.4 M0 126.4 C0.43 108.35, 1.5 86.25, 0 32 M0 126.4 C0.49 97.63, -0.74 71.5, 0 32 M0 32 C1.29 10.13, 10.74 0.91, 32 0 M0 32 C1.48 12.29, 12 -1.88, 32 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(35.01203605291124 244.2658796973492) rotate(0 71.54178549254422 64.28992549485929)">
+        <path
+            d="M32 0 C59.46 -0.49, 92.04 1.26, 111.08 0 M32 0 C58.18 0.48, 85.23 -0.39, 111.08 0 M111.08 0 C132.45 0.46, 143.96 12.5, 143.08 32 M111.08 0 C131.32 -0.43, 141.09 10.35, 143.08 32 M143.08 32 C142.59 52.27, 141.54 69.42, 143.08 96.58 M143.08 32 C143.12 46.63, 142.04 63.75, 143.08 96.58 M143.08 96.58 C143.08 116.15, 130.67 128.17, 111.08 128.58 M143.08 96.58 C141.47 118.08, 131.63 130.87, 111.08 128.58 M111.08 128.58 C91.02 129.76, 73.84 130.01, 32 128.58 M111.08 128.58 C94.51 129.29, 77.11 128.08, 32 128.58 M32 128.58 C9.45 129.61, -0.56 117.49, 0 96.58 M32 128.58 C11.2 129.53, -2.09 117.43, 0 96.58 M0 96.58 C1.23 77.97, -0.16 61.06, 0 32 M0 96.58 C-1 77.19, 0.22 55.72, 0 32 M0 32 C0.07 11.57, 11.95 1.41, 32 0 M0 32 C1.34 8.79, 12.47 -0.27, 32 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g transform="translate(62.71386335453752 296.0558051922085) rotate(0 43.83995819091797 12.5)">
+        <text x="43.83995819091797" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px"
+            fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">thumbnail</text>
+    </g>
+    <g transform="translate(186.96546770917752 281.1757105875174) rotate(0 69.16993713378906 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Due: yyyymmdd</text>
+    </g>
+    <g transform="translate(186.96546770917752 252.32551537983977) rotate(0 75.39994049072266 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Biller: abcd xyz</text>
+    </g>
+    <g transform="translate(186.96546770917752 310.02590579519506) rotate(0 84.47993469238281 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Amount: $xxxx.yy</text>
+    </g>
+    <g transform="translate(186.96546770917752 338.87610100287293) rotate(0 90.56990814208984 12.5)">
+        <text x="0" y="17.52" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#1e1e1e"
+            text-anchor="start" style="white-space: pre;" direction="ltr"
+            dominant-baseline="alphabetic">Status: processing</text>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(389.459758805392 271.51524040535855) rotate(0 65.78170546265801 39.527265934944694)">
+        <path
+            d="M19.76 0 C42.86 0.86, 66.87 -0.97, 111.8 0 M19.76 0 C45.6 -0.56, 70.76 0.1, 111.8 0 M111.8 0 C126.14 -1.1, 130.78 5.38, 131.56 19.76 M111.8 0 C124.5 -0.48, 131.95 4.63, 131.56 19.76 M131.56 19.76 C130.11 26.29, 131.47 34.91, 131.56 59.29 M131.56 19.76 C130.83 31.58, 131 43.54, 131.56 59.29 M131.56 59.29 C133.08 73.26, 126.75 77.43, 111.8 79.05 M131.56 59.29 C133.73 71.71, 126.67 81.28, 111.8 79.05 M111.8 79.05 C79.21 77.93, 44.12 78.96, 19.76 79.05 M111.8 79.05 C80.15 78.98, 49.79 79.51, 19.76 79.05 M19.76 79.05 C5.92 78.97, 0.37 72.75, 0 59.29 M19.76 79.05 C8.1 77.06, -1.31 74.55, 0 59.29 M0 59.29 C1.01 46.16, 1.52 31.62, 0 19.76 M0 59.29 C0.45 51.02, 0.03 42, 0 19.76 M0 19.76 C-1.18 6.85, 5.97 1.11, 19.76 0 M0 19.76 C1.08 5.46, 7.41 0.18, 19.76 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g
+        transform="translate(400.7846375240719 282.74951066538983) rotate(0 53.84880065917969 29.203647384427768)">
+        <text x="0" y="13.643944058004653" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Instalment 1</text>
+        <text x="0" y="33.11304231428983" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Due: yyyymmdd</text>
+        <text x="0" y="52.58214057057501" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Status: Paid</text>
+    </g>
+    <g stroke-linecap="round"
+        transform="translate(616.4824273627496 273.55252980731825) rotate(0 65.78170546265801 39.527265934944694)">
+        <path
+            d="M19.76 0 C51.02 -1.29, 82.76 0.35, 111.8 0 M19.76 0 C41.65 -0.53, 61.98 -0.58, 111.8 0 M111.8 0 C124.56 -0.42, 131.9 4.88, 131.56 19.76 M111.8 0 C122.89 1.83, 131.56 4.56, 131.56 19.76 M131.56 19.76 C131.63 27.48, 133.47 35.39, 131.56 59.29 M131.56 19.76 C132.15 30.68, 132.28 39.99, 131.56 59.29 M131.56 59.29 C133.45 71.81, 126.45 80.99, 111.8 79.05 M131.56 59.29 C133.07 71.9, 123.57 80.24, 111.8 79.05 M111.8 79.05 C87.6 77.45, 61.32 78.83, 19.76 79.05 M111.8 79.05 C82.77 79.61, 54.6 79.8, 19.76 79.05 M19.76 79.05 C7.91 77.32, -1.14 74.27, 0 59.29 M19.76 79.05 C8.08 78.44, 0.09 73.51, 0 59.29 M0 59.29 C-1.91 46.46, -0.51 32.02, 0 19.76 M0 59.29 C-0.72 46.13, -0.44 33.27, 0 19.76 M0 19.76 C0.94 5.61, 7.3 0.16, 19.76 0 M0 19.76 C-2.24 7.48, 8.83 -0.28, 19.76 0"
+            stroke="#1e1e1e" stroke-width="2" fill="none"></path>
+    </g>
+    <g
+        transform="translate(624.1336238647964 283.46995853809995) rotate(0 57.507728576660156 29.203647384427768)">
+        <text x="0" y="13.643944058004653" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Instalment n</text>
+        <text x="0" y="33.11304231428983" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Due: yyyymmdd</text>
+        <text x="0" y="52.58214057057501" font-family="Virgil, Segoe UI Emoji"
+            font-size="15.575278605028142px" fill="#1e1e1e" text-anchor="start"
+            style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Status: Unpaid</text>
+    </g>
+    <g stroke-linecap="round">
+        <g
+            transform="translate(533.9644127458512 307.79632367642876) rotate(0 37.73073705367949 0.06227177539017248)">
+            <path d="M-0.05 -0.82 C12.55 -0.78, 61.86 0.05, 74.56 0.09" stroke="#1e1e1e"
+                stroke-width="2.5" fill="none" stroke-dasharray="1.5 8"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g
+            transform="translate(401.04868879371116 177.0428667641828) rotate(0 -0.660029517926489 20.768820966672592)">
+            <path d="M-0.4 0.42 C-0.53 7.36, -0.75 34.82, -0.96 41.65" stroke="#1e1e1e"
+                stroke-width="2.5" fill="none" stroke-dasharray="1.5 8"></path>
+        </g>
+    </g>
+    <mask></mask>
+</svg>
