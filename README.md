@@ -61,16 +61,3 @@ npm run dev
 ```
 
 Adjust ports or proxies as needed to connect the frontend to the backend.
-
-## Notes
-
-- SQLite database files (`*.sqlite3`) and the `media/` directory are git-ignored by default.
-- If you already have a virtual environment in the repo, activate it instead of creating a new one.
-- This README aims to be minimal — expand with more project-specific notes, API docs, or deployment instructions as needed.
-
----
-
-If you want, I can also:
-- Add example environment variable templates (e.g. `.env.example`).
-- Add a short CONTRIBUTING or PR checklist.
-- Add GitHub Actions workflow for tests.
